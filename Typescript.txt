@@ -1,0 +1,1 @@
+TS is sued to code the applciation logic of Angular appplciaions
